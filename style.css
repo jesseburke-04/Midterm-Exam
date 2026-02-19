@@ -30,7 +30,6 @@ a {
 
 a:hover {
     color: var(--text-color);
-    border: 2px solid var(--text-color);
 }
 
 /* NAVBAR Section*/
